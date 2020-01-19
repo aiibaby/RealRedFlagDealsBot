@@ -1,0 +1,12 @@
+{
+    "name": "realredflagbot",
+    "version": "1.0.0",
+    "description": "Real Bot for RedFlag",
+    "main": "bot.js",
+    "author": "Owen Gan",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "dotenv": "^8.2.0",
+        "winston": "^3.2.1"
+    }
+}
